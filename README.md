@@ -1,5 +1,5 @@
 # vidalrl.github.io
 
-#Cientifico de datos
+# Cientifico de datos
 
-##Trabajos
+## Trabajos
